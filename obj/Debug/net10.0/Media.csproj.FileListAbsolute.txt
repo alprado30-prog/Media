@@ -1,0 +1,14 @@
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\bin\Debug\net10.0\Media.exe
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\bin\Debug\net10.0\Media.deps.json
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\bin\Debug\net10.0\Media.runtimeconfig.json
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\bin\Debug\net10.0\Media.dll
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\bin\Debug\net10.0\Media.pdb
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.AssemblyInfoInputs.cache
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.AssemblyInfo.cs
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.dll
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\refint\Media.dll
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.pdb
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.genruntimeconfig.cache
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\ref\Media.dll
