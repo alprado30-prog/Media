@@ -12,3 +12,4 @@ C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\refint\Media.d
 C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.pdb
 C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.genruntimeconfig.cache
 C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\ref\Media.dll
+C:\Users\Edna\Desktop\Aulas Desk\Projetos\Media\obj\Debug\net10.0\Media.sourcelink.json
